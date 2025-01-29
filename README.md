@@ -8,8 +8,6 @@ Interactive and responsive design
 
 Dynamic color sequence generation
 
-Sound effects for a better experience
-
 Progressive difficulty with each level
 
 🎮 How to Play
@@ -29,9 +27,6 @@ HTML – Structure of the game
 CSS – Styling for a visually appealing UI
 
 JavaScript – Game logic and interactivity
-
-📷 Screenshot
-C:\Users\EXCEL\Desktop\PROJECTS\SIMON-SAYS-GAME\simon-says.png
 
 📂 Project Setup
 
