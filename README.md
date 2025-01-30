@@ -22,17 +22,17 @@ If you make a mistake, the game will reset, and you can try again!
 
 🛠️ Technologies Used
 
-HTML – Structure of the game
+# HTML – Structure of the game
 
-CSS – Styling for a visually appealing UI
+# CSS – Styling for a visually appealing UI
 
-JavaScript – Game logic and interactivity
+# JavaScript – Game logic and interactivity
 
 📂 Project Setup
 
 Clone the repository:
 
-git clone https://github.com/bhartrimarko/simon-says-game.git
+git clone [https://github.com/bhartimarko/Simon_says.git]
 
 Navigate to the project folder:
 
