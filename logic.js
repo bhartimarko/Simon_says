@@ -72,17 +72,14 @@ function checkSequence(currentIndex){
       //get the current index from user sequence.     
      //  currentIndex = level-1 (This currentIndex is fixed so that's why we do not check again and again in same array. and it's show us undefined)
 
-      console.log("Checking:", userSequence[currentIndex], "vs", gameSequence[currentIndex]); 
+     //  console.log("Checking:", userSequence[currentIndex], "vs", gameSequence[currentIndex]); 
 
       //check if the current input matches the gameSequence
       if(userSequence[currentIndex] === gameSequence[currentIndex]){
           //if we've completed the sequence successfully
           if(userSequence.length == gameSequence.length){
                console.log("same sequence")
-               setTimeout(() => {
-                    userSequence = []; //clear user sequence.
-                    levelUp();
-               },500);
+               setTimeout( levelUp, 500);
           }         
       }
       else{
@@ -104,6 +101,7 @@ function resetGame(){
 }
 
 function levelUp(){
+     userSequence = []; //clear user sequence.
      level += 1;
      heading3.innerText = `Level ${level}`;
      

@@ -1,4 +1,4 @@
-Simon Says Game
+# Simon Says Game
 
 A fun and interactive Simon Says game built using HTML, CSS, and JavaScript. The game tests memory by generating a sequence of colors that the player must repeat correctly.
 
