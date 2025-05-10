@@ -2,7 +2,7 @@
 
 A fun and interactive Simon Says game built using HTML, CSS, and JavaScript. The game tests memory by generating a sequence of colors that the player must repeat correctly.
 
-🚀 Features
+<h1> Features</h1>
 
 Interactive and responsive design
 
@@ -10,7 +10,7 @@ Dynamic color sequence generation
 
 Progressive difficulty with each level
 
-🎮 How to Play
+<h1> How to Play </h1>
 
 The game will flash a color sequence.
 
